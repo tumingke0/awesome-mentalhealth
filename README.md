@@ -24,6 +24,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 - [meQuilibrium](https://mequilibrium.com) - Web & mobile app that harnesses behavioral psychology to build resilience and agility.
 - [Muse brain sensing headband](http://www.choosemuse.com/) - Headband and companion app for mindfulness meditation.
 - [Paula](https://trypaula.com) - Free AI mental health companion using CBT and DBT techniques. Features voice sessions, mood tracking, journaling, and 24/7 availability.
+- [Ripple](https://ripplefocus.github.io/) - Local-first focus and parental control for Android and iOS 16+. Blocks Shorts, Reels, and WeChat Channels. 15-minute cooldown plus friend or parent unlock codes. On-device only, no ads.
 - [Sleepio](https://www.sleepio.com/) - Improve your sleep habits and quality.
 - [Ten Percent Happier](https://www.tenpercent.com/) - Web & Mobile app that provides guided meditations on topics ranging from anxiety and stress to parenting and sleep, as well as videos, bite-sized stories, and inspiration you can listen to on the go.
 - [Daily Wellness Empowerment Program](https://dwep-app.gitlab.io/) - Wellness app that combines 10 evidence-based practices (meditation, fitness, nutrition, etc.) into one platform.
